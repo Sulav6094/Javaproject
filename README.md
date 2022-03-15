@@ -22,10 +22,25 @@ The program is basic and does all the minimal.
 However, in the future it would be nice to put in more data and more functions that can do more than CRUD.
 
 # Screenshots showing your postman requests and the output from the API.
-#Screenshots of your database to prove that data is being persisted.
+Create:
+![Create](https://github.com/Sulav6094/Javaproject/blob/dev/documentation/create.jpg)
+ReadAll:
+![ReadAll](https://github.com/Sulav6094/Javaproject/blob/dev/documentation/readAll.jpg)
+ReadById:
+![ReadById](https://github.com/Sulav6094/Javaproject/blob/dev/documentation/readById.jpg)
+Update:
+![Update](https://github.com/Sulav6094/Javaproject/blob/dev/documentation/update.jpg)
+Delete:
+![Delete](https://github.com/Sulav6094/Javaproject/blob/dev/documentation/delete.jpg)
+![Afterdeleting](https://github.com/Sulav6094/Javaproject/blob/dev/documentation/readallAfterDelete.jpg)
+# Screenshots of your database to prove that data is being persisted.
 Image of a database:
 ![Database](https://github.com/Sulav6094/Javaproject/blob/dev/documentation/database.jpg)
 # Screenshot of your test results, including coverage report.
+Test:
+![Test](https://github.com/Sulav6094/Javaproject/blob/dev/documentation/test1.jpg)
+Test coverage:
+![Coverage](https://github.com/Sulav6094/Javaproject/blob/dev/documentation/testcoverage.jpg)
 
 # Link to Jira Board - You must add your trainer(s) as collaborators also.
 Here's a link to [Jira][https://sulav6094.atlassian.net/jira/software/projects/JAV/boards/4]
