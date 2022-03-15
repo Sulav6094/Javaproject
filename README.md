@@ -31,7 +31,7 @@ ReadById:
 Update:
 ![Update](https://github.com/Sulav6094/Javaproject/blob/dev/documentation/update.jpg)
 Delete:
-![Delete](https://github.com/Sulav6094/Javaproject/blob/dev/documentation/delete.jpg)
+![Delete](https://github.com/Sulav6094/Javaproject/blob/dev/documentation/delete1.jpg)
 ![Afterdeleting](https://github.com/Sulav6094/Javaproject/blob/dev/documentation/readallAfterDelete.jpg)
 # Screenshots of your database to prove that data is being persisted.
 Image of a database:
@@ -43,4 +43,4 @@ Test coverage:
 ![Coverage](https://github.com/Sulav6094/Javaproject/blob/dev/documentation/testcoverage.jpg)
 
 # Link to Jira Board - You must add your trainer(s) as collaborators also.
-Here's a link to [Jira][https://sulav6094.atlassian.net/jira/software/projects/JAV/boards/4]
+Here's a link to [Jira](https://sulav6094.atlassian.net/jira/software/projects/JAV/boards/4)
