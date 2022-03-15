@@ -24,7 +24,7 @@ However, in the future it would be nice to put in more data and more functions t
 #Screenshots showing your postman requests and the output from the API.
 #Screenshots of your database to prove that data is being persisted.
 Image of a database:
-![Database][https://github.com/Sulav6094/Javaproject/blob/dev/documentation/database.jpg]
+![Database](https://github.com/Sulav6094/Javaproject/blob/dev/documentation/database.jpg)
 #Screenshot of your test results, including coverage report.
 
 #Link to Jira Board - You must add your trainer(s) as collaborators also.
