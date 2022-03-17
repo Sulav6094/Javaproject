@@ -10,7 +10,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>employee</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>shark</name>
+	<name>employee</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
@@ -73,6 +73,7 @@
 	</build>
 
 </project>
+
 
 
 
